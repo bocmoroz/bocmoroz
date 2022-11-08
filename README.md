@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I'm amateur runner :)**
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Skills:</h4>
 <p> </p>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
